@@ -1,4 +1,4 @@
-/Slick Carousel Controllers
+//Slick Carousel Controllers
 $(".testimonial-reel").slick({
   centerMode: true,
   centerPadding: "40px",
